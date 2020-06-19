@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple MediaPlayer</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="hello_play_media_player">Hello, playing sound with media player</string>
+</resources>
